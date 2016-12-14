@@ -6,6 +6,7 @@ Feature A
 Subsection
 ----------
 
+New documentation here
 Exciting documentation in here.
 
 
